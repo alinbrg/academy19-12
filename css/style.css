@@ -1,0 +1,11 @@
+.btn-red {
+	background-color: red;
+}
+.btn-red:hover {
+	background-color: darkred;
+}
+
+.carousel-item img {
+	height: 400px;
+	object-fit: cover;
+}
